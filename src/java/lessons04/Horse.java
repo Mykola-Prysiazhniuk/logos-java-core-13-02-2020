@@ -17,6 +17,7 @@ public class Horse {
 
     public Horse(){}
 
+
     public Horse (double legsQuantity){
         this.legsQuantity = legsQuantity;
     }

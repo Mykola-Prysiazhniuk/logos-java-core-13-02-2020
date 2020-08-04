@@ -24,5 +24,6 @@ public class Pegasus extends Horse {
                 ", legsQuantity=" + legsQuantity +
                 ", color='" + color + '\'' +
                 '}';
+
     }
 }
