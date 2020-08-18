@@ -1,0 +1,21 @@
+package lesson13;
+
+import java.util.ArrayList;
+
+public class StudentApp {
+    public static void main(String[] args) {
+
+        ArrayList<Student> students = new ArrayList<>();
+
+        students.add(new Student(3,"Anna", 23));
+        students.add(new Student(2,"Maria", 21));
+        students.add(new Student(1,"Robert", 19));
+        students.add(new Student(4,"Gregg", 17));
+        students.add(new Student(3,"Bob", 18));
+        students.add(new Student(2,"Yulia", 23));
+        students.add(new Student(5,"Nata", 25));
+        students.add(new Student(3,"Anna", 24));
+
+
+    }
+}
