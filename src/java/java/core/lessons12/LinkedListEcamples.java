@@ -1,4 +1,4 @@
-package lessons12;
+package java.core.lessons12;
 
 import java.util.LinkedList;
 

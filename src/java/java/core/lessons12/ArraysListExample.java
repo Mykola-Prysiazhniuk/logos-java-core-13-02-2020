@@ -1,9 +1,6 @@
-package lessons12;
-
-import lessons11.Person;
+package java.core.lessons12;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 
 public class ArraysListExample {

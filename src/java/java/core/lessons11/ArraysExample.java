@@ -1,8 +1,6 @@
-package lessons11;
+package java.core.lessons11;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
-import java.util.Random;
 
 public class ArraysExample {
     public static void main(String[] args) {
